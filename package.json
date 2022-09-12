@@ -6,6 +6,10 @@
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot"
   },
+  "engines": {
+    "node": "v16.15.0",
+    "npm": "8.5.5"
+  },
   "author": "Pankaj Singh",
   "license": "ISC",
   "dependencies": {
